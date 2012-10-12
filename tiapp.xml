@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.machonemedia.craigfergusonsoundboard</id>
+<name>Craig Ferguson Soundboard</name>
+<version>1.0</version>
+<publisher>bryansloan</publisher>
+<url>http://machonemedia.ca</url>
+<description>All the best sounds from the Late Show with Craig Ferguson</description>
+<copyright>2010 by Bryan Sloan</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>93681791-ff8a-4b34-9f67-f21390fbbd51</guid>
+</ti:app>
